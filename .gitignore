@@ -1,0 +1,8 @@
+# Built binaries & release outputs
+/bin/
+/dist/
+nmclean
+nmclean.exe
+
+# OS files
+.DS_Store
